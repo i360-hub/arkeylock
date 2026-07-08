@@ -2,7 +2,7 @@
 title: "Locked Out of Your Car in Hot Springs? Do This (and Don't Do That)"
 seoTitle: "Locked Out of Your Car in Hot Springs? Do This First"
 description: "Keys locked in the car? A Hot Springs locksmith with 15+ years of lockout calls explains what to do first, what not to try, and who to call."
-pubDate: 2026-07-28
+pubDate: 2026-07-08
 heroImage: "/assets/img/hero-emergency.jpg"
 heroAlt: "A hand pulling the handle of a locked car door in Hot Springs, AR"
 ---
