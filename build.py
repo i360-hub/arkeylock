@@ -639,6 +639,8 @@ def load_posts():
     today = datetime.now(timezone.utc).date()
     for fp in sorted(glob.glob(os.path.join(POSTS, "*.md"))):
         name = os.path.basename(fp)
+        if name.lower() == "readme.md" or name.startswith("_"):
+            continue  # docs/scratch files, not posts
         meta, body = parse_frontmatter(open(fp, encoding="utf-8").read(), name)
         for req in ("title", "description", "pubDate", "heroImage", "heroAlt"):
             if not meta.get(req):
