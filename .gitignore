@@ -1,0 +1,6 @@
+dist/
+__pycache__/
+.DS_Store
+# old one-off export artifacts
+arkeylock-dist/
+arkeylock-dist.zip

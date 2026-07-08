@@ -1,0 +1,35 @@
+# Daily scheduled rebuild + deploy — makes future-dated posts in posts/ go live
+# automatically on their pubDate (see build.py "Blog" section and posts/README.md).
+#
+# The Pages project (arkeylock) is DIRECT-UPLOAD via wrangler, not git-connected,
+# so Cloudflare Deploy Hooks don't exist for it; the cron lives here instead.
+#
+# ⚠️ This deploys whatever is on GitHub `main`. Push local work before 11:00 UTC
+# or the nightly deploy will ship an older tree than the last manual
+# `wrangler pages deploy` from the Mac. Push and deploy together.
+#
+# Required repo secrets (Settings → Secrets and variables → Actions):
+#   CLOUDFLARE_API_TOKEN  — API token with "Cloudflare Pages: Edit" permission
+#   CLOUDFLARE_ACCOUNT_ID — from the Cloudflare dashboard right sidebar
+name: daily-blog-publish
+
+on:
+  schedule:
+    - cron: '0 11 * * *' # 11:00 UTC = 6:00 AM Central (CDT)
+  workflow_dispatch: # manual "Run workflow" button for testing / off-schedule publishes
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Zero-dependency generator: stdlib Python only.
+      - run: python3 build.py
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=arkeylock --branch=main

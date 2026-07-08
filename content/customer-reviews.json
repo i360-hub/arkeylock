@@ -1,0 +1,54 @@
+{
+  "slug": "customer-reviews",
+  "type": "info",
+  "title": "Reviews & Reputation | Arkey Lock | Hot Springs AR",
+  "metaDesc": "See why Hot Springs trusts Arkey Locksmith. Read our reviews on Google &amp; Yelp, leave your own, or call (501) 617-8872 for honest, licensed locksmith help.",
+  "h1": "Arkey Locksmith Reviews &amp; Reputation in Hot Springs, AR",
+  "heroSub": "Our name has grown by word of mouth across Hot Springs. We&rsquo;d love for you to read what neighbors say &mdash; and to share your own experience.",
+  "trust": [
+    "Licensed &amp; Insured",
+    "15+ Years",
+    "Locally Owned",
+    "24/7"
+  ],
+  "sections": [
+    {
+      "alt": false,
+      "html": "<h2>Our Reputation Is Built Locally</h2><p>Arkey Locksmith is not a national call center that ships work to whoever is cheapest. We are locally owned and work right here in Hot Springs and the surrounding towns. That means the person who answers the phone is part of the same community you live in.</p><p>For more than 15 years, most of our work has come the old-fashioned way &mdash; one happy customer telling a friend, a neighbor, or a coworker. When you stake your name on every job, you do the job right. We show up when we say we will, we explain the work before we start, and we treat your home, car, or business with respect.</p><p>We are licensed and insured, and we are proud to offer discounts to veterans and seniors. We think a good reputation is something you earn one customer at a time, not something you buy.</p>"
+    },
+    {
+      "alt": true,
+      "html": "<h2>Read Our Reviews &amp; Leave Your Own</h2><p>The best way to learn about any locksmith is to hear from real customers. We invite you to look us up on Google and Yelp and read what people say about working with Arkey Locksmith. Honest feedback helps you feel confident before you ever pick up the phone.</p><p>If we have helped you, we would be grateful if you took a minute to leave a review of your own. Sharing your experience helps your neighbors find a locksmith they can trust, and it tells us what we are doing right.</p><ul class=\"ticks\"><li>Search &ldquo;Arkey Locksmith Hot Springs&rdquo; on Google to read and post a review</li><li>Find us on Yelp to see ratings and share your story</li><li>Mention which service we did &mdash; car keys, lockout, rekey, or commercial work</li><li>Tell us about your tech by name so we can pass along the credit</li></ul><p>Happy with us or not, we want to hear it. If something was not right, call us at <a href=\"tel:5016178872\">(501) 617-8872</a> first so we can make it good.</p>"
+    },
+    {
+      "alt": false,
+      "html": "<h2>Why Customers Call Us Back</h2><p>Repeat business is the truest review there is. When the same families and companies call us year after year, it tells us we are doing something right. Here is what keeps people coming back to Arkey Locksmith.</p><div class=\"grid c3\"><div class=\"card\"><h3>We Pick Up 24/7</h3><p>Locks do not wait for business hours. Whether it is the middle of the night or a holiday, a real local locksmith answers and heads your way.</p></div><div class=\"card\"><h3>Clear, Fair Pricing</h3><p>We tell you what the work will cost before we begin. Prices vary by job, so call for a quote &mdash; no surprises tacked on at the end.</p></div><div class=\"card\"><h3>We Do It Right</h3><p>From car key and fob programming to home rekeys and commercial access control, we use the right tools and stand behind our work.</p></div></div>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are you licensed and insured?",
+      "a": "<p>Yes. Arkey Locksmith is fully licensed and insured. That protects you and gives you peace of mind that a trained, accountable professional is working on your locks, car, or business.</p>"
+    },
+    {
+      "q": "How long have you been in business?",
+      "a": "<p>We have more than 15 years of locksmith experience serving Hot Springs and the nearby towns. That long track record is a big part of why so much of our work comes from word of mouth and repeat customers.</p>"
+    },
+    {
+      "q": "What if I am not satisfied with the work?",
+      "a": "<p>We want you to be happy with every job. If something is not right, call us at <a href=\"tel:5016178872\">(501) 617-8872</a> and we will work to make it good. We would much rather fix an issue directly than leave any customer unhappy.</p>"
+    },
+    {
+      "q": "Do you offer any discounts?",
+      "a": "<p>Yes. We are proud to offer discounts for veterans and seniors as a thank-you for their service and trust. Prices vary by job, so call us for an affordable quote and ask about your discount.</p>"
+    }
+  ],
+  "related": [
+    "about",
+    "emergency-locksmith",
+    "car-key-replacement"
+  ],
+  "showTestimonials": true,
+  "heroImage": "/assets/img/hero-keys.jpg",
+  "keywords": "Arkey Locksmith reviews, Hot Springs locksmith reviews, trusted locksmith Hot Springs, locksmith ratings, Google reviews locksmith"
+}

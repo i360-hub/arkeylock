@@ -1,0 +1,48 @@
+{
+  "slug": "service-area",
+  "type": "info",
+  "title": "Locksmith Service Area | Hot Springs AR | Arkey Lock",
+  "metaDesc": "See the Arkey Locksmith service area: Hot Springs, AR and towns within about 35 miles. Mobile locksmith at your door, 24/7. Call (501) 617-8872.",
+  "h1": "Our Locksmith Service Area &mdash; Hot Springs &amp; Surrounding Arkansas",
+  "heroSub": "Arkey Locksmith is fully mobile and based in Hot Springs. We cover the city and the towns, lakes, and back roads within about a 35-mile radius &mdash; and we come to you.",
+  "trust": [
+    "Fully Mobile",
+    "~35-Mile Radius",
+    "24/7 Service",
+    "Licensed &amp; Insured"
+  ],
+  "sections": [
+    {
+      "alt": false,
+      "html": "<h2>One Local Team Across the Hot Springs Area</h2><p class=\"lead\">Arkey Locksmith is a locally owned, fully mobile locksmith based right here in Hot Springs. Instead of asking you to drive to a shop, we bring the shop to you &mdash; your driveway, your office, a parking lot, a boat ramp, or the side of the road. Our core coverage runs roughly 35 miles out from Hot Springs, reaching the lakes, the I-30 corridor, and the small communities in between.</p><p>Because we are mobile, there is no walk-in storefront to visit &mdash; just call and we head your way. We answer 24/7, our car keys cost far less than the dealership, and we keep pricing up front so you know the cost before we start. Veterans and seniors get a discount, too.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far do you travel?",
+      "a": "<p>Our core service area is roughly a 35-mile radius around Hot Springs, which covers the towns and lakes shown on the map above. We regularly travel a bit farther for car keys and emergencies &mdash; if you are near the edge, just call (501) 617-8872 and we will tell you straight.</p>"
+    },
+    {
+      "q": "Do you charge extra for travel or distance?",
+      "a": "<p>We quote you up front before any work begins, so there are no surprise fees. Pricing depends on the job and where you are; call us with your location and we will give you an honest, all-in price.</p>"
+    },
+    {
+      "q": "My town is not on the list &mdash; do you still serve it?",
+      "a": "<p>Quite possibly. The pages and map here cover the areas we reach most, but we serve plenty of smaller communities around them, too. Call (501) 617-8872 with your location and we will let you know right away whether we can come to you.</p>"
+    },
+    {
+      "q": "Where are you based?",
+      "a": "<p>We are based in Hot Springs, Arkansas, and operate as a mobile service-area business &mdash; we come to your car, home, or business rather than working out of a walk-in location.</p>"
+    },
+    {
+      "q": "Are you available 24/7 across the whole service area?",
+      "a": "<p>Yes. We answer the phone around the clock, every day, for lockouts and urgent locksmith needs anywhere in our Hot Springs service area. Call (501) 617-8872 any time and we will get a mobile tech headed your way.</p>"
+    }
+  ],
+  "serviceAreaMap": true,
+  "areaHub": true,
+  "ctaHeading": "Need a Locksmith in Your Town?",
+  "ctaSub": "Wherever you are around Hot Springs, Arkey Locksmith comes to you &mdash; 24/7, licensed, and local.",
+  "heroImage": "/assets/img/hero-lake.jpg",
+  "keywords": "locksmith service area Hot Springs, areas served, mobile locksmith coverage, locksmith near me, Garland County locksmith, Hot Springs AR locksmith"
+}

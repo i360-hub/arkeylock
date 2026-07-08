@@ -1,0 +1,71 @@
+{
+  "slug": "car-key-replacement",
+  "type": "service",
+  "serviceType": "Car Key Replacement",
+  "title": "Car Key Replacement in Hot Springs, AR | Arkey Lock",
+  "metaDesc": "Lost car keys or need a spare? Arkey Locksmith makes &amp; programs car keys, fobs &amp; smart keys on-site in Hot Springs, AR. Same-day mobile service. Call.",
+  "h1": "Car Key Replacement &amp; Fob Programming in Hot Springs, AR",
+  "heroSub": "Lost your only key, snapped a key, or need a backup? We make and program car keys, remotes, and push-to-start fobs right where your car sits &mdash; for far less than the dealership.",
+  "trust": [
+    "Same-Day Mobile",
+    "All Makes &amp; Models",
+    "Licensed &amp; Insured",
+    "24/7"
+  ],
+  "offers": [
+    "Lost car key replacement (no spare needed)",
+    "Spare &amp; duplicate keys cut on-site",
+    "Transponder &amp; chip key programming",
+    "Remote head keys &amp; flip-key fobs",
+    "Push-to-start smart / proximity keys",
+    "VIN key cutting for newer vehicles",
+    "Laser-cut (sidewinder) high-security keys"
+  ],
+  "sections": [
+    {
+      "alt": false,
+      "html": "<h2>New Car Keys Made &amp; Programmed at Your Vehicle</h2><p>A car key is more than a piece of metal. Most keys today carry a hidden chip, a remote, or a full smart-key computer that has to talk to your car. When you lose the last one or need a backup, Arkey Locksmith handles the whole job in one mobile visit. We cut the key, program the chip, and test it before we leave. You drive away with a working key &mdash; no tow truck and no trip to the dealer.</p><p>We work on cars, trucks, SUVs, and vans of nearly every make and model. If your vehicle uses a key, a fob, or a push-to-start button, we can almost always cover it. Not sure what your car needs? Call us with the year, make, and model and we&rsquo;ll tell you straight.</p><ul class=\"ticks\"><li>Standard metal keys cut by code or to your lock</li><li>Transponder &amp; chip keys programmed to your car</li><li>Remote head keys and flip keys</li><li>Push-to-start proximity (smart) keys</li><li>VIN key cutting &amp; laser-cut (sidewinder) keys</li><li>Spare keys so you&rsquo;re never stuck again</li></ul>"
+    },
+    {
+      "alt": true,
+      "html": "<h2>Lost the Only Key? We Can Still Help</h2><p>Losing every key feels like a dead end, but it usually is not. We can make a brand-new key even when you have nothing to copy. Using your vehicle&rsquo;s lock or its VIN, we cut a fresh key from scratch and program it to your car on the spot. For most vehicles this is done in your driveway or a parking lot &mdash; wherever the car is parked.</p><div class=\"grid c3\"><div class=\"card\"><h3>1. Call With Your Details</h3><p>Give us your year, make, model, and where the car is. We bring the right blanks and tools.</p></div><div class=\"card\"><h3>2. We Cut &amp; Program</h3><p>We cut the key by code or VIN, then program the chip or smart key to your car.</p></div><div class=\"card\"><h3>3. You Test &amp; Drive</h3><p>We confirm it starts, locks, and unlocks before we pack up. You&rsquo;re back on the road.</p></div></div><p>Locally owned and based right here in Hot Springs, we answer our own phones. You reach a real local locksmith, not a national call center.</p>"
+    },
+    {
+      "alt": false,
+      "html": "<h2>Why Skip the Dealership</h2><p>The dealer can make car keys too, but it often means towing the car in, waiting days for a part, and paying a premium. We come to you, usually the same day, and our car keys cost far less than the dealership charges. You also get the perk of having a key made on-site, so there&rsquo;s no second trip.</p><p>We&rsquo;re here around the clock, every day of the year. Veterans and seniors get a discount, too. Whether it&rsquo;s a quiet weekday or a holiday night when the dealer is closed, one call gets a working key on its way to you.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does a new car key cost?",
+      "a": "<p>It depends on your vehicle and the type of key. A basic metal key costs less than a transponder key, and a push-to-start smart key costs more because it carries a small computer. The good news is our car keys run far less than the dealership for the same job. Call us at (501) 617-8872 with your year, make, and model and we&rsquo;ll give you a clear quote.</p>"
+    },
+    {
+      "q": "I lost my only car key and have no spare. Can you still make one?",
+      "a": "<p>Yes. We don&rsquo;t need an existing key to copy. We cut a brand-new key using your car&rsquo;s lock or its VIN, then program it to your vehicle right where it&rsquo;s parked. Most of the time we can do this same day without a tow.</p>"
+    },
+    {
+      "q": "Do you program push-to-start and smart keys?",
+      "a": "<p>We do. We program proximity (smart) keys and push-to-start fobs for most makes and models. Bring us the year, make, and model and we&rsquo;ll let you know if we can cover your car before we come out.</p>"
+    },
+    {
+      "q": "My key fob stopped working &mdash; is it the battery?",
+      "a": "<p>Often, yes. A dead or weak fob battery is the most common reason a remote quits working. A fresh battery usually brings it back to life. If a new battery doesn&rsquo;t fix it, the fob may need reprogramming or replacement, and we can handle both. Give us a call and we&rsquo;ll sort out what&rsquo;s going on.</p>"
+    },
+    {
+      "q": "How long does it take to make a car key?",
+      "a": "<p>Most jobs are done in well under an hour once we arrive. Simple keys take just a few minutes to cut and program. Smart keys and lost-all-keys jobs can take a little longer, but we test everything before we leave so you drive away with a key that works.</p>"
+    },
+    {
+      "q": "Do you come to me?",
+      "a": "<p>Yes &mdash; we&rsquo;re a fully mobile locksmith. We make and program car keys at your home, your job, a parking lot, or anywhere your car is sitting in the Hot Springs area. Call (501) 617-8872 and we&rsquo;ll head your way.</p>"
+    }
+  ],
+  "related": [
+    "automotive-locksmith",
+    "emergency-locksmith",
+    "mount-ida-locksmith"
+  ],
+  "heroImage": "/assets/img/hero-keys.jpg",
+  "keywords": "car key replacement Hot Springs, lost car key, spare car key, key fob replacement, transponder key, smart key programming, mobile car key, VIN key cutting, laser cut keys"
+}

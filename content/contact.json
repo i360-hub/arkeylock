@@ -1,0 +1,69 @@
+{
+  "slug": "contact",
+  "type": "info",
+  "title": "Contact Arkey Lock | Hot Springs, AR Locksmith 24/7",
+  "metaDesc": "Reach Arkey Locksmith, your 24/7 mobile locksmith in Hot Springs, AR. Call or text (501) 617-8872, or send us a message. We come to you, day or night.",
+  "h1": "Contact Arkey Locksmith &mdash; Your 24/7 Mobile Locksmith in Hot Springs",
+  "heroSub": "The fastest way to reach us is by phone. Call or text (501) 617-8872 any time, day or night &mdash; we answer locally and roll a truck to your spot.",
+  "trust": [
+    "Licensed &amp; Insured",
+    "24/7 Live Answer",
+    "Fully Mobile",
+    "Locally Owned"
+  ],
+  "sections": [
+    {
+      "alt": false,
+      "html": "<h2>How to Reach Us</h2><p>We keep it simple. The fastest way to get help is to pick up the phone &mdash; you will talk to a real person in Hot Springs, not a national call center. Prefer to put it in writing? Use the quick form below and we will get right back to you.</p><div class=\"grid c3\"><div class=\"card\"><h3>Call</h3><p>Dial <a href=\"tel:5016178872\">(501) 617-8872</a>. We answer 24 hours a day, 7 days a week. This is the quickest way to get help, especially in an emergency.</p></div><div class=\"card\"><h3>Text</h3><p>Prefer to type it out? Send a text to <a href=\"tel:5016178872\">(501) 617-8872</a> with your address and the problem. Texting works great when you are locked out and your phone is your only lifeline.</p></div><div class=\"card\"><h3>Message</h3><p>For non-urgent questions or quotes, fill out the form below with your address and what you need. For anything time-sensitive, please call instead so we can move fast.</p></div></div>"
+    },
+    {
+      "alt": true,
+      "html": "<h2>Where We Go &mdash; Our Service Area</h2><p>We are fully mobile, so we bring the locksmith shop to you. We are based in Hot Springs and cover the towns and lakes all around it. If you are near any of these, just call &mdash; we are on the way.</p><ul class=\"ticks\"><li>Hot Springs &amp; Hot Springs National Park</li><li>Hot Springs Village</li><li>Lake Hamilton &amp; Lake Catherine</li><li>Pearcy &amp; Magnet Cove</li><li>Malvern &amp; Bismarck</li><li>Mount Ida</li></ul><p>Not sure if you are in range? Give us a call. If we cannot reach you, we will tell you straight and try to point you in the right direction.</p>"
+    },
+    {
+      "alt": false,
+      "html": "<h2>What to Tell Us When You Call</h2><p>A few quick details help us show up ready with the right tools and a fair price. Have this handy when you ring us:</p><ul class=\"ticks\"><li>Your name and a good callback number</li><li>Your exact address or a nearby landmark</li><li>What you need &mdash; locked out, lost keys, a rekey, a new car key, and so on</li><li>For cars, the year, make, and model (and whether you have any working key)</li><li>For homes or businesses, the type of lock or door if you know it</li></ul><p>Do not worry if you are missing some of this. Tell us what you can and we will fill in the rest when we arrive. Ask us about our veteran and senior discounts too.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How fast can you get to me?",
+      "a": "<p>In and around Hot Springs we usually reach you quickly, often within a short window after your call. Travel time depends on where you are and traffic, so call us at <a href=\"tel:5016178872\">(501) 617-8872</a> and we will give you a real estimate, not a guess.</p>"
+    },
+    {
+      "q": "Do you take credit and debit cards?",
+      "a": "<p>Yes. We accept major cards along with other common ways to pay. Just let us know what works for you when we arrive and we will sort it out on the spot.</p>"
+    },
+    {
+      "q": "What information do you need from me?",
+      "a": "<p>Your name, a callback number, your location, and a short description of the problem. For vehicles, the year, make, and model help a lot. The more you can share up front, the faster we can help.</p>"
+    },
+    {
+      "q": "Are you really available after hours?",
+      "a": "<p>Yes, 24/7. Lockouts do not keep business hours, and neither do we. Call or text <a href=\"tel:5016178872\">(501) 617-8872</a> at 2 a.m. or 2 p.m. and a local technician will answer.</p>"
+    },
+    {
+      "q": "Can I just text instead of calling?",
+      "a": "<p>Absolutely. Text your address and the issue to <a href=\"tel:5016178872\">(501) 617-8872</a>. For true emergencies a call is still fastest, but a text gets the ball rolling.</p>"
+    },
+    {
+      "q": "Do you charge for a quote?",
+      "a": "<p>No. Call us and we will talk through your situation and give you an honest idea of cost. Pricing varies by job, so we would rather give you a fair quote than a one-size-fits-all number.</p>"
+    }
+  ],
+  "related": [
+    "emergency-locksmith",
+    "automotive-locksmith",
+    "residential-locksmith"
+  ],
+  "heroImage": "/assets/img/hero-carkey.jpg",
+  "ghlForm": {
+    "id": "4t0hubQ1s4vJjYWN9v9c",
+    "src": "https://api.leadconnectorhq.com/widget/form/4t0hubQ1s4vJjYWN9v9c",
+    "height": 600,
+    "name": "Contact Us",
+    "heading": "Send Us a Message",
+    "mode": "lazy"
+  },
+  "keywords": "contact Arkey Locksmith, Hot Springs locksmith phone, 24/7 locksmith Hot Springs, mobile locksmith near me, locksmith service request"
+}

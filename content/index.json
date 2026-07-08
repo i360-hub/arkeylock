@@ -1,0 +1,67 @@
+{
+  "slug": "",
+  "type": "home",
+  "title": "Hot Springs Locksmith 24/7 | Arkey Lock Auto & Home",
+  "metaDesc": "24/7 locksmith in Hot Springs, AR. Emergency lockouts, car key & fob programming, rekeys, lock installs & commercial access. Call (501) 617-8872.",
+  "h1": "Hot Springs Locksmith — Emergency, Auto, Home & Business",
+  "heroSub": "Locked out, lost your only car key, or need new locks? Arkey Locksmith is your fast, licensed, local mobile locksmith — answering 24/7 across Hot Springs and the surrounding Arkansas area.",
+  "trust": [
+    "24/7 Emergency Service",
+    "Licensed &amp; Insured",
+    "15+ Years Experience",
+    "Veteran &amp; Senior Discounts"
+  ],
+  "sections": [
+    {
+      "alt": false,
+      "html": "<h2>Why Hot Springs Calls Arkey Locksmith</h2><div class=\"grid c3\"><div class=\"card\"><h3>Fast Local Response</h3><p>We are based right here in Hot Springs and run a fully mobile service, so we reach most of the area quickly &mdash; day or night.</p></div><div class=\"card\"><h3>15+ Years Experience</h3><p>From classic deadbolts to push-to-start smart keys, we have seen and solved it. Licensed, insured, and trained on modern vehicles and locks.</p></div><div class=\"card\"><h3>Up-Front, Fair Pricing</h3><p>No surprise fees. We tell you the price before we start, and our car key work runs well below dealership pricing.</p></div><div class=\"card\"><h3>Veteran &amp; Senior Discounts</h3><p>We are proud to give back to the people who built our community with discounts for veterans and seniors.</p></div></div>"
+    },
+    {
+      "alt": true,
+      "html": "<h2>Our Locksmith Services</h2><p class=\"lead\">One local team for your car, your home, and your business.</p><div class=\"grid c3\"><a class=\"card lift\" href=\"/emergency-locksmith\"><span class=\"pill\">24/7</span><h3>Emergency Lockout</h3><p>Locked out of your car, home, or business? We come to you, fast.</p><span class=\"more\">Learn more &rarr;</span></a><a class=\"card lift\" href=\"/automotive-locksmith\"><h3>Automotive Locksmith</h3><p>Car lockouts, ignition repair, and key &amp; fob programming for most makes.</p><span class=\"more\">Learn more &rarr;</span></a><a class=\"card lift\" href=\"/car-key-replacement\"><h3>Car Key Replacement</h3><p>Lost every key? We cut and program transponder, fob, and smart keys on site.</p><span class=\"more\">Learn more &rarr;</span></a><a class=\"card lift\" href=\"/residential-locksmith\"><h3>Residential Locksmith</h3><p>Rekeys, lock installation, deadbolts, and lockouts for your home.</p><span class=\"more\">Learn more &rarr;</span></a><a class=\"card lift\" href=\"/commercial-locksmith\"><h3>Commercial Locksmith</h3><p>Master key systems, access control, and high-security commercial hardware.</p><span class=\"more\">Learn more &rarr;</span></a><a class=\"card lift\" href=\"/rv-marine-locksmith\"><h3>RV &amp; Marine Locksmith</h3><p>Lake country specialist: RV, travel trailer, and boat lock &amp; key service.</p><span class=\"more\">Learn more &rarr;</span></a></div>"
+    },
+    {
+      "alt": false,
+      "html": "<h2>Your Local Hot Springs Locksmith</h2><p>Arkey Locksmith is a locally owned, fully mobile locksmith serving Hot Springs and the communities around it. We are not a national call center that routes your emergency to whoever is cheapest &mdash; you reach us, and we show up. Whether you are stranded in a parking lot off Central Avenue, locked out of a rental near Lake Hamilton, or upgrading the locks on a downtown storefront, we handle it with the right tools and honest pricing.</p><p>We work on modern vehicles too. Lost the only key to a push-to-start car? We cut and program transponder keys, remote fobs, and proximity (smart) keys on site &mdash; usually for far less than the dealership, and without the tow.</p>"
+    },
+    {
+      "alt": true,
+      "html": "<h2>Serving Hot Springs &amp; the Surrounding Area</h2><p>Based in Hot Springs, we serve a real, local radius &mdash; including:</p><ul class=\"ticks\"><li><a href=\"/hot-springs-village-locksmith\">Hot Springs Village</a></li><li><a href=\"/lake-hamilton-locksmith\">Lake Hamilton</a></li><li><a href=\"/pearcy-locksmith\">Pearcy</a></li><li><a href=\"/magnet-cove-locksmith\">Magnet Cove</a></li><li><a href=\"/malvern-locksmith\">Malvern</a></li><li><a href=\"/bismarck-locksmith\">Bismarck &amp; DeGray Lake</a></li><li><a href=\"/mount-ida-locksmith\">Mount Ida &amp; Lake Ouachita</a></li></ul><p>We also serve Mountain Pine, Royal, Piney, Jessieville, Lonsdale, Donaldson, and the greater Hot Springs area &mdash; 24 hours a day.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are you available 24/7 for emergencies?",
+      "a": "<p>Yes. We answer the phone around the clock for lockouts and urgent locksmith needs in Hot Springs and the surrounding area. Call <a href=\"tel:5016178872\">(501) 617-8872</a> any time and we will get a mobile tech headed your way.</p>"
+    },
+    {
+      "q": "Can you make a car key if I lost all of mine?",
+      "a": "<p>Yes. Even if you have no working key, we can cut a key to your vehicle and program transponder, remote fob, and push-to-start (smart) keys on site for most makes and models &mdash; usually for much less than a dealership, and with no tow required.</p>"
+    },
+    {
+      "q": "How much does a locksmith cost in Hot Springs?",
+      "a": "<p>It depends on the job &mdash; a simple home or car lockout is one of our most affordable services, while car key programming or new commercial hardware costs more. We always give you a clear price before we start, with no surprise fees.</p>"
+    },
+    {
+      "q": "Do you come to me?",
+      "a": "<p>Yes. We are a fully mobile locksmith. We come to your car, home, or business anywhere in our Hot Springs service area.</p>"
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "<p>Yes, Arkey Locksmith is a licensed and insured locksmith with 15+ years of experience. You can trust us with your vehicle, home, and business.</p>"
+    },
+    {
+      "q": "What areas do you serve?",
+      "a": "<p>Hot Springs and the surrounding area, including Hot Springs Village, Lake Hamilton, Pearcy, Magnet Cove, Malvern, Bismarck, and Mount Ida, plus nearby communities.</p>"
+    }
+  ],
+  "related": [
+    "emergency-locksmith",
+    "car-key-replacement",
+    "residential-locksmith"
+  ],
+  "serviceAreaMap": true,
+  "showTestimonials": true,
+  "heroImage": "/assets/img/hero-carkey.jpg",
+  "keywords": "Hot Springs locksmith, locksmith Hot Springs AR, 24/7 locksmith, emergency lockout, car key replacement, mobile locksmith, residential locksmith, commercial locksmith"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "smart-lock-installation",
+  "type": "service",
+  "serviceType": "Smart Lock Installation",
+  "title": "Smart Lock Installation in Hot Springs, AR | Arkey Lock",
+  "metaDesc": "Smart lock &amp; keypad entry installation in Hot Springs, AR. Schlage, Yale, August &amp; Kwikset setup by Arkey Locksmith. Call (501) 617-8872.",
+  "h1": "Smart Lock &amp; Keypad Entry Installation in Hot Springs, Arkansas",
+  "heroSub": "Ditch the hidden key under the mat. We install, set up, and rekey smart locks so you can let yourself, your family, and your guests in with a code or your phone.",
+  "trust": [
+    "Licensed &amp; Insured",
+    "24/7 Mobile Service",
+    "15+ Years Experience",
+    "Locally Owned"
+  ],
+  "offers": [
+    "Smart deadbolt installation &amp; upgrades",
+    "Keypad &amp; keyless entry setup",
+    "Wi-Fi &amp; Bluetooth lock pairing",
+    "Rekeying existing locks to match",
+    "Guest, cleaner &amp; rental access codes",
+    "Brand setup: Schlage, Yale, August, Kwikset"
+  ],
+  "sections": [
+    {
+      "alt": false,
+      "html": "<h2>Smart Locks That Fit Your Door &amp; Your Life</h2><p>A smart lock only helps if it&rsquo;s installed right and set up the way you actually live. We do both. We come to your home in Hot Springs, check that your door and frame can handle the lock, mount it square so it never drags, and then walk you through using it before we leave.</p><p>We work with the brands people trust, like Schlage Encode, Yale, August, and the Kwikset Halo. Already bought one online? We&rsquo;ll install it for you. Not sure which to get? We&rsquo;ll tell you which one fits your door and your needs &mdash; no upsell games. We&rsquo;re a local shop, not a national call center.</p><ul class=\"ticks\"><li>Smart deadbolts and keypad locks</li><li>Wi-Fi locks you can control from anywhere</li><li>Bluetooth locks that unlock as you walk up</li><li>Keypad-only locks with no app needed</li></ul>"
+    },
+    {
+      "alt": true,
+      "html": "<h2>No More Hidden Keys or Copies Floating Around</h2><p>The best part of a smart lock is control. Give the dog walker a code that only works on weekdays. Hand your cleaner a code you can delete the day they finish. Let the kids in after school without a key they&rsquo;ll lose. When someone moves out, you change a code instead of changing the whole lock.</p><div class=\"grid c3\"><div class=\"card\"><h3>Codes for Guests</h3><p>Set a code for visitors or family and turn it off whenever you want. No spare keys to chase down later.</p></div><div class=\"card\"><h3>Codes for Cleaners</h3><p>Give service folks their own code that only works when you need it to. You stay in control of who gets in.</p></div><div class=\"card\"><h3>Rekey to Match</h3><p>Keep a backup key that opens your new smart lock and your other doors too, so one key still works everywhere.</p></div></div>"
+    },
+    {
+      "alt": false,
+      "html": "<h2>We Set It Up, Not Just Bolt It On</h2><p>Plenty of folks buy a smart lock, get stuck on the app, and give up. That doesn&rsquo;t happen with us. After we mount the lock, we pair it to your Wi-Fi or Bluetooth, create your first codes, test every one, and make sure the auto-lock and low-battery alerts work. We&rsquo;ll show you how to add and remove codes yourself so you&rsquo;re never locked out of your own system.</p><p>Cost depends on the lock you pick and your door, so it varies &mdash; but our labor is always affordable and we&rsquo;ll give you a clear quote before we start. Call us at <a href=\"tel:5016178872\">(501) 617-8872</a> and tell us what you&rsquo;re thinking.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which smart lock is best for my home?",
+      "a": "<p>It depends on how you want to use it. If you want to control the lock from anywhere, a Wi-Fi model like the Schlage Encode is great. If you mostly want keypad entry at the door, a Kwikset Halo or Yale keypad is a solid pick. If you just want your phone to unlock the door as you walk up, an August fits well. Tell us your door type and your habits and we&rsquo;ll point you to the right one.</p>"
+    },
+    {
+      "q": "Do smart locks still work if the power or battery dies?",
+      "a": "<p>Yes. Smart locks run on batteries, not your home&rsquo;s power, so a power outage won&rsquo;t lock you out. Most warn you well ahead of time when the batteries are low. Many models also keep a regular key slot or let you jump-start them with a 9-volt battery at the keypad as a backup. We&rsquo;ll show you the backup option for your exact lock.</p>"
+    },
+    {
+      "q": "Can you install a smart lock I already bought?",
+      "a": "<p>Absolutely. Bring us whatever you picked up online or in a store and we&rsquo;ll install it, pair it, and set it up. If it turns out the lock won&rsquo;t fit your door, we&rsquo;ll tell you straight and help you find one that will.</p>"
+    },
+    {
+      "q": "Are smart locks secure, or can they be hacked?",
+      "a": "<p>Quality smart locks from trusted brands use strong encryption, and a thief on your porch is far more likely to try a window than to hack a lock. The bigger risks are weak codes and a poorly mounted lock. We install on solid hardware, help you set strong codes, and set up auto-lock so the door never gets left open by mistake.</p>"
+    },
+    {
+      "q": "Should I get a keypad lock or an app-based one?",
+      "a": "<p>A keypad is simple and works for anyone &mdash; kids, older family members, and guests can punch in a code with no phone needed. An app gives you remote control, history of who came and went, and the ability to let someone in while you&rsquo;re away. Many locks do both. We&rsquo;ll help you weigh it based on who uses your door.</p>"
+    },
+    {
+      "q": "Can you rekey my other locks to match?",
+      "a": "<p>Yes. Most smart locks keep a backup key, and we can rekey your other doors so a single key opens everything. That way you get the convenience of codes plus one simple key for backup. Call <a href=\"tel:5016178872\">(501) 617-8872</a> to set it up.</p>"
+    }
+  ],
+  "related": [
+    "residential-locksmith",
+    "commercial-locksmith",
+    "emergency-locksmith"
+  ],
+  "heroImage": "/assets/img/hero-smartlock.webp",
+  "keywords": "smart lock installation Hot Springs, keypad lock, smart deadbolt, Schlage, Yale, August, Kwikset, keyless entry locksmith"
+}

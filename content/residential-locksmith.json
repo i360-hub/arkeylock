@@ -1,0 +1,72 @@
+{
+  "slug": "residential-locksmith",
+  "type": "service",
+  "serviceType": "Residential Locksmith",
+  "title": "Residential Locksmith in Hot Springs, AR | Arkey Lock",
+  "metaDesc": "Home rekeys, lock &amp; deadbolt installs, lockouts &amp; smart lock setup in Hot Springs, AR. Licensed, insured &amp; mobile. Call Arkey Locksmith at (501) 617-8872.",
+  "h1": "Residential Locksmith Services in Hot Springs, Arkansas",
+  "heroSub": "From new-home rekeys to broken locks and house lockouts, our mobile team comes to your door, day or night. Locally owned and serving Hot Springs and the surrounding area.",
+  "trust": [
+    "Licensed &amp; Insured",
+    "24/7 Service",
+    "15+ Years Experience",
+    "Fully Mobile"
+  ],
+  "offers": [
+    "Home rekeys after a move or tenant turnover",
+    "Lock &amp; deadbolt installation",
+    "House lockout service",
+    "Broken key extraction &amp; lock repair",
+    "Mailbox &amp; cabinet lock replacement",
+    "Patio &amp; sliding-door locks, window security locks",
+    "Reinforced strike plates for door security",
+    "Smart lock &amp; keypad setup"
+  ],
+  "sections": [
+    {
+      "alt": false,
+      "html": "<h2>Just Moved In? Start With a Rekey</h2><p>When you get the keys to a new house, you have no idea how many copies are floating around. The old owners, their family, a neighbor, a contractor, a past tenant &mdash; any of them could still have a working key. A rekey fixes that fast. We change the pins inside your existing locks so the old keys stop working and you get fresh keys that only you have.</p><p>Rekeying is quicker and cheaper than buying all new hardware, and your locks keep working exactly like before. We come to you anywhere in Hot Springs, so you don&rsquo;t have to haul locks to a shop or wait around for days. Most homes are done in a single visit.</p><ul class=\"ticks\"><li>Old keys stop working for good</li><li>Keep the locks you already have</li><li>One key can open every door</li></ul>"
+    },
+    {
+      "alt": true,
+      "html": "<h2>What We Handle Around the House</h2><p>We do more than rekeys. If a lock sticks, a key snapped off in the cylinder, or a deadbolt feels loose, we can repair or replace it on the spot. We also install new locks and deadbolts where you want more security, and we set up smart locks and keypads so you can ditch the keys entirely. For extra protection we add patio and sliding-door locks, window security locks, cabinet keys, and reinforced strike plates.</p><div class=\"grid c3\"><div class=\"card\"><h3>Lock &amp; Deadbolt Installs</h3><p>New deadbolts on exterior doors and quality locks where you need them. We make sure everything lines up and latches smoothly.</p></div><div class=\"card\"><h3>Lockouts &amp; Broken Keys</h3><p>Locked out or snapped a key in the door? We get you back inside and pull out the broken piece without wrecking the lock.</p></div><div class=\"card\"><h3>Mailbox &amp; Smart Locks</h3><p>Lost the mailbox key or want a keypad on the front door? We replace mailbox locks and set up smart locks the right way.</p></div></div>"
+    },
+    {
+      "alt": false,
+      "html": "<h2>Help for Landlords &amp; Rentals</h2><p>If you rent out property in the Hot Springs area, every tenant turnover is a security risk until the locks are changed. We make turnovers simple. Call us between tenants and we&rsquo;ll rekey the unit so the last renter&rsquo;s keys are useless and the new one gets a clean set.</p><p>Managing several doors or a few units? We can put them on a master key system, so you carry one key that opens everything while each tenant keeps their own. It saves you from juggling a giant ring of keys. Pricing varies by the number of locks, so call for a quote and we&rsquo;ll give you a straight answer.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I rekey or replace my locks after moving in?",
+      "a": "<p>For most people who just moved in, a rekey is all you need. It stops the old keys from working and costs less than buying new hardware. We only suggest replacing a lock when it&rsquo;s worn out, damaged, or you want an upgrade like a smart lock or a heavier deadbolt.</p>"
+    },
+    {
+      "q": "How much does it cost to rekey my house?",
+      "a": "<p>The price varies based on how many locks you have and the type of locks. It&rsquo;s an affordable job and usually done in one visit. Call us at (501) 617-8872 with a quick count of your doors and we&rsquo;ll give you a clear quote before we start.</p>"
+    },
+    {
+      "q": "Can you match all my locks to one key?",
+      "a": "<p>Yes. As long as the locks are compatible, we can key them all alike so a single key opens every door in the house. It&rsquo;s a popular request and makes daily life a lot easier. We&rsquo;ll let you know if any lock can&rsquo;t be matched before we do the work.</p>"
+    },
+    {
+      "q": "Do you install deadbolts?",
+      "a": "<p>We do. We install new deadbolts on exterior doors and replace old or weak ones. We make sure the bolt lines up with the frame and locks smoothly. If your door isn&rsquo;t drilled for a deadbolt, we can handle that too.</p>"
+    },
+    {
+      "q": "Can you set up smart locks and keypads?",
+      "a": "<p>Yes. We install and set up smart locks and keypad entry locks so you can stop carrying keys. We&rsquo;ll get it mounted, programmed, and tested, and walk you through how to add or remove codes. See our smart lock installation page for more.</p>"
+    },
+    {
+      "q": "Are you available at night and on weekends?",
+      "a": "<p>We&rsquo;re a 24/7 mobile locksmith, so we answer calls day, night, and weekends. You reach us directly, not a national call center. For after-hours lockouts and emergencies, call (501) 617-8872 anytime.</p>"
+    }
+  ],
+  "related": [
+    "smart-lock-installation",
+    "emergency-locksmith",
+    "commercial-locksmith"
+  ],
+  "heroImage": "/assets/img/hero-residential.jpg",
+  "keywords": "residential locksmith Hot Springs, home rekey, lock installation, deadbolt installation, house lockout, smart lock, home locksmith, mailbox lock, patio door lock, window security locks, strike plate"
+}

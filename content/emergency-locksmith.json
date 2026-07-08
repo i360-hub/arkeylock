@@ -1,0 +1,66 @@
+{
+  "slug": "emergency-locksmith",
+  "type": "service",
+  "serviceType": "Emergency Locksmith",
+  "title": "24/7 Emergency Locksmith Hot Springs AR | Arkey Lock",
+  "metaDesc": "Locked out in Hot Springs? Arkey Locksmith is a 24/7 emergency locksmith for car, home & business lockouts. Fast, licensed & insured. Call (501) 617-8872.",
+  "h1": "24/7 Emergency Locksmith in Hot Springs",
+  "heroSub": "Locked out of your car, house, or business? Stay calm and call us. We answer 24/7 and send a mobile locksmith straight to you &mdash; days, nights, weekends, and holidays.",
+  "trust": [
+    "Answers 24/7",
+    "Fast Mobile Response",
+    "Licensed &amp; Insured",
+    "Up-Front Pricing"
+  ],
+  "offers": [
+    "Car Lockout Service",
+    "House Lockout Service",
+    "Business Lockout Service",
+    "Broken Key Extraction",
+    "Lost Key Replacement",
+    "Emergency Rekey"
+  ],
+  "sections": [
+    {
+      "alt": false,
+      "html": "<h2>Locked Out? We Come to You &mdash; Fast</h2><p class=\"lead\">A lockout always happens at the worst time. Whether you are stranded in a parking lot, stuck on your porch in the rain, or shut out of your shop before opening, Arkey Locksmith gets you back in quickly and without damage.</p><div class=\"grid c3\"><div class=\"card\"><h3>Car Lockouts</h3><p>Keys locked in the car or trunk? We open most vehicles without damaging the door, paint, or lock.</p></div><div class=\"card\"><h3>Home Lockouts</h3><p>Shut out of your house? We get you back inside fast and can rekey on the spot if your keys are lost.</p></div><div class=\"card\"><h3>Business Lockouts</h3><p>Locked out of your store or office? We respond quickly so you can open on time.</p></div></div>"
+    },
+    {
+      "alt": true,
+      "html": "<h2>What to Do When You're Locked Out</h2><ul class=\"ticks\"><li>Get to a safe, well-lit spot &mdash; especially at night or on a roadway.</li><li>Double-check doors, windows, and any spare keys before paying for service.</li><li>If a child or pet is locked in a hot car, call 911 first, then call us.</li><li>Call <a href=\"tel:5016178872\">(501) 617-8872</a>. Tell us your location and vehicle or door type so we arrive ready.</li></ul><p>We will give you an honest price up front &mdash; no inflated &ldquo;emergency&rdquo; surprise fees when we arrive.</p>"
+    },
+    {
+      "alt": false,
+      "html": "<h2>Why Call a Local Locksmith Instead of a Tow or Call Center</h2><p>Many &ldquo;24 hour locksmith&rdquo; ads route you to a national call center that dispatches whoever bids lowest &mdash; often with a low quote that balloons on site. Arkey Locksmith is local. You reach us directly, we tell you the real price, and a Hot Springs technician shows up. Faster, fairer, and no bait-and-switch.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How fast can you get to me?",
+      "a": "<p>We are a local, fully mobile locksmith and answer 24/7, so we aim to reach you as quickly as possible anywhere in the Hot Springs area. Call and we will give you an honest time estimate.</p>"
+    },
+    {
+      "q": "Will you damage my car or door getting in?",
+      "a": "<p>No. We use professional tools and techniques to open most vehicles and doors without damaging the lock, door, or paint.</p>"
+    },
+    {
+      "q": "How much does an emergency lockout cost?",
+      "a": "<p>A standard lockout is one of our most affordable services. The exact price depends on the time, location, and lock type, and we always tell you the price before we begin &mdash; no surprise fees.</p>"
+    },
+    {
+      "q": "I lost my keys, not just locked them inside. Can you still help?",
+      "a": "<p>Yes. We can get you in and then make a new key on the spot. For homes and businesses we can also rekey the locks so the lost keys no longer work. For vehicles we can cut and program a new key or fob.</p>"
+    },
+    {
+      "q": "Do you charge more at night or on weekends?",
+      "a": "<p>We will always quote you up front. Call <a href=\"tel:5016178872\">(501) 617-8872</a> any time and you will know the price before we start.</p>"
+    }
+  ],
+  "related": [
+    "car-key-replacement",
+    "automotive-locksmith",
+    "residential-locksmith"
+  ],
+  "heroImage": "/assets/img/hero-emergency.jpg",
+  "keywords": "emergency locksmith Hot Springs, 24/7 locksmith, car lockout, house lockout, business lockout, emergency lockout service, mobile locksmith"
+}

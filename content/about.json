@@ -1,0 +1,57 @@
+{
+  "slug": "about",
+  "type": "info",
+  "title": "About Arkey Lock | Hot Springs, AR Mobile Locksmith",
+  "metaDesc": "Learn about Arkey Locksmith, a locally owned 24/7 mobile locksmith serving Hot Springs &amp; nearby Arkansas towns for 15+ years. Licensed &amp; insured. Call.",
+  "h1": "About Arkey Locksmith &mdash; Your Local Hot Springs Locksmith",
+  "heroSub": "We&apos;re a locally owned, fully mobile locksmith team that has helped Hot Springs neighbors with locks and keys for more than 15 years. Real people, real local service.",
+  "trust": [
+    "Locally Owned",
+    "15+ Years",
+    "Licensed &amp; Insured",
+    "24/7 Mobile"
+  ],
+  "sections": [
+    {
+      "alt": false,
+      "html": "<h2>Our Story</h2><p>Arkey Locksmith started right here in Hot Springs, Arkansas, and we&apos;ve stayed local ever since. For more than 15 years we&apos;ve answered calls from folks locked out of their cars, homes, and businesses all over Garland County. When you call us, you reach a real local locksmith &mdash; not a national call center that farms your job out to a stranger.</p><p>Being based in town means we know the streets, the neighborhoods, and the lake roads. We can find you fast, day or night. We don&apos;t work out of a storefront &mdash; we come to you, so most of our work is done right in your driveway, parking lot, or doorway.</p>"
+    },
+    {
+      "alt": true,
+      "html": "<h2>What We Do</h2><p>We&apos;re a full-service locksmith. If it has a lock or a key, there&apos;s a good chance we can help. Here&apos;s the kind of work we handle every week:</p><div class=\"grid c3\"><div class=\"card\"><h3>Automotive</h3><p>Car lockouts, broken keys, and new car keys, fobs, and smart keys programmed on site &mdash; for far less than the dealership.</p></div><div class=\"card\"><h3>Home</h3><p>House lockouts, rekeying, new deadbolts, broken key removal, and smart lock installs to keep your family safe.</p></div><div class=\"card\"><h3>Business</h3><p>Commercial lockouts, master key systems, access control, and high-security hardware for shops and offices.</p></div><div class=\"card\"><h3>RV &amp; Marine</h3><p>Locks and keys for campers, RVs, and boats &mdash; handy with all the lake life around Hot Springs.</p></div><div class=\"card\"><h3>Emergency</h3><p>Locked out at 2 a.m.? We answer 24/7 and head your way fast, any day of the year.</p></div><div class=\"card\"><h3>Rekey &amp; Repair</h3><p>New keys, fresh pins, and fixed hardware so old locks work like new without a full replacement.</p></div></div>"
+    },
+    {
+      "alt": false,
+      "html": "<h2>Why Choose Us</h2><p>There are plenty of ways to get a locksmith, but here&apos;s why your neighbors keep calling Arkey Locksmith.</p><ul class=\"ticks\"><li>Locally owned and operated &mdash; you talk to us, not a far-off dispatch center.</li><li>Licensed and insured for your peace of mind.</li><li>Fully mobile, so we bring the shop to your car, home, or business.</li><li>Honest, up-front pricing &mdash; we explain the cost before we start.</li><li>Open 24/7, including nights, weekends, and holidays.</li><li>Discounts for veterans and seniors as a thank-you to our community.</li></ul><p>We treat every job like it&apos;s a neighbor calling, because most of the time, it is. Give us a ring at <a href=\"tel:5016178872\">(501) 617-8872</a> and we&apos;ll take care of you.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are you licensed and insured?",
+      "a": "<p>Yes. Arkey Locksmith is fully licensed and insured. That protects you and gives you peace of mind that the work is done right by trained pros.</p>"
+    },
+    {
+      "q": "What areas do you serve?",
+      "a": "<p>We&apos;re based in Hot Springs and cover the surrounding area, including Hot Springs Village, Lake Hamilton, Pearcy, Magnet Cove, Malvern, Bismarck, and Mount Ida. If you&apos;re nearby and not sure, just call (501) 617-8872 and ask.</p>"
+    },
+    {
+      "q": "Are you really open 24/7?",
+      "a": "<p>Yes, we answer calls around the clock, every day of the year &mdash; including nights, weekends, and holidays. Lockouts don&apos;t keep business hours, and neither do we.</p>"
+    },
+    {
+      "q": "Do you come to me?",
+      "a": "<p>We sure do. We&apos;re a fully mobile locksmith, so we bring our tools and equipment right to your location. Most jobs are finished on the spot at your car, home, or business.</p>"
+    },
+    {
+      "q": "Are you a national chain or a local business?",
+      "a": "<p>We&apos;re locally owned and operated in Hot Springs &mdash; not a national call center. When you call, you reach a real local locksmith who knows the area and answers the phone.</p>"
+    }
+  ],
+  "related": [
+    "emergency-locksmith",
+    "automotive-locksmith",
+    "residential-locksmith"
+  ],
+  "heroImage": "/assets/img/hero-about.webp",
+  "keywords": "Arkey Locksmith, Hot Springs locksmith, local locksmith, licensed locksmith, insured locksmith, mobile locksmith Arkansas, family owned locksmith"
+}

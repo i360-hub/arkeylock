@@ -1,0 +1,70 @@
+{
+  "slug": "commercial-locksmith",
+  "type": "service",
+  "serviceType": "Commercial Locksmith",
+  "title": "Commercial Locksmith in Hot Springs, AR | Arkey Lock",
+  "metaDesc": "Commercial locksmith in Hot Springs, AR. Master keys, access control, rekeys for staff turnover &amp; panic hardware. Licensed &amp; insured. Call (501) 617-8872.",
+  "h1": "Commercial Locksmith Services in Hot Springs, Arkansas",
+  "heroSub": "Keep your business secure and control exactly who holds a key. Arkey Locksmith handles master key systems, access control, rekeys, and exit hardware for shops, offices, and warehouses.",
+  "trust": [
+    "Licensed &amp; Insured",
+    "24/7 Service",
+    "15+ Years Local",
+    "Fully Mobile"
+  ],
+  "offers": [
+    "Master key system design &amp; installation",
+    "Electronic access control: keypads, fobs &amp; electric strikes",
+    "High-security &amp; restricted keyways",
+    "Office &amp; storefront lockout service",
+    "Rekeys for employee turnover",
+    "Panic bars, exit devices &amp; file cabinet locks"
+  ],
+  "sections": [
+    {
+      "alt": false,
+      "html": "<h2>Security Built Around How Your Business Runs</h2><p>Every business has a different flow. A retail storefront on Central Avenue needs different locks than a warehouse off the highway or a medical office with private records. Arkey Locksmith sets up your locks so the right people get in and the wrong people stay out. We are locally owned in Hot Springs, not a national call center, so you talk to the same locksmith who does the work.</p><p>We come to you with a fully stocked van. That means we measure, fit, and finish the job on-site, usually in one visit. Whether you run one shop or several buildings, we build a key plan that makes sense and is easy to manage.</p><div class=\"grid c3\"><div class=\"card\"><h3>Master Key Systems</h3><p>Give managers one key that opens many doors while staff keys open only their own areas. Less clutter, more control.</p></div><div class=\"card\"><h3>Access Control</h3><p>Keypads, fobs, and electric strikes let you grant or cancel access in seconds&mdash;no need to chase down old keys.</p></div><div class=\"card\"><h3>Exit &amp; Panic Hardware</h3><p>We install and repair panic bars and exit devices so your doors are safe and meet code for getting people out fast.</p></div></div>"
+    },
+    {
+      "alt": true,
+      "html": "<h2>Control Who Has Keys&mdash;Even After Someone Leaves</h2><p>Staff turnover is the most common reason a business loses control of its keys. When an employee quits or is let go, that key may never come back. Rekeying is the fast, affordable fix. We change the lock so old keys no longer work, and you do not have to replace the whole lock or door hardware.</p><ul class=\"ticks\"><li>Rekey after firing, quitting, or a lost key</li><li>Restricted keyways so keys cannot be copied at a hardware store</li><li>High-security cylinders that resist picking and drilling</li><li>One master key for owners, separate keys for each department</li><li>Keypad, combination &amp; push-button locks</li><li>Desk, cabinet &amp; file cabinet locks</li></ul><p>If you would rather move past keys entirely, electronic access control lets you turn a code or fob off the moment someone leaves. Ask us which approach fits your budget and your building.</p>"
+    },
+    {
+      "alt": false,
+      "html": "<h2>From Lockouts to Long-Term Plans</h2><p>Locked out of your own store before opening? We get there fast and open the door without damage when we can. But we do more than emergencies. We help you plan ahead so small problems never become big ones.</p><p>We service exterior doors, interior offices, supply rooms, and file cabinet locks. We can program car keys and fobs for your fleet vehicles too, often for far less than the dealership charges. Pricing varies by the work involved, so call for a quote and we will give you a clear answer before we start.</p><p>Need help after hours? We are available 24/7 across Hot Springs and nearby towns. Veterans and seniors get a discount on our services.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a master key system?",
+      "a": "<p>A master key system lets you set up different levels of access on one set of locks. A master key opens every door, while individual keys open only certain doors. For example, an owner's key might open the whole building, a manager's key opens the office and stockroom, and a clerk's key opens just the front. It cuts down on the number of keys people carry and gives you control over who reaches sensitive areas.</p>"
+    },
+    {
+      "q": "Do you install access control and keypad entry?",
+      "a": "<p>Yes. We install electronic access control such as keypads, fob readers, and electric strikes. These let you give each person a code or fob and turn access on or off in seconds. There are no keys to copy, and you can remove someone's access the moment they leave. Call (501) 617-8872 and we will help you pick a setup that fits your doors and budget.</p>"
+    },
+    {
+      "q": "An employee left&mdash;how fast can you rekey our locks?",
+      "a": "<p>We can usually rekey your locks the same day, often during a single visit. Rekeying changes the lock so old keys stop working, without replacing the whole lock. It is the fastest and most affordable way to take back control after a staff change or a lost key. For after-hours turnover, we are available 24/7.</p>"
+    },
+    {
+      "q": "Can you provide high-security or restricted keys?",
+      "a": "<p>Yes. High-security cylinders resist picking, drilling, and bumping, and restricted keyways cannot be copied at an ordinary hardware store. That means no one duplicates your keys without your permission. These are a smart choice for businesses that store records, cash, inventory, or anything you need to keep locked down.</p>"
+    },
+    {
+      "q": "Do you install and repair panic bars and exit devices?",
+      "a": "<p>We do. Panic bars and exit devices let people leave quickly in an emergency by pushing on the door. We install new exit hardware and repair units that stick, fail to latch, or no longer push smoothly. Working exit hardware keeps your doors safe and helps you stay compliant.</p>"
+    },
+    {
+      "q": "Do you offer after-hours service for businesses?",
+      "a": "<p>Yes, we are available 24/7. If you are locked out before opening, a lock fails, or you need an urgent rekey after a staff change, call (501) 617-8872. We are fully mobile and serve Hot Springs and the surrounding area at any hour.</p>"
+    }
+  ],
+  "related": [
+    "residential-locksmith",
+    "smart-lock-installation",
+    "emergency-locksmith"
+  ],
+  "heroImage": "/assets/img/hero-commercial.webp",
+  "keywords": "commercial locksmith Hot Springs, master key system, access control, business rekey, panic hardware, commercial lock repair, file cabinet locks, keypad locks, restricted keyways"
+}

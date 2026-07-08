@@ -1,0 +1,72 @@
+{
+  "slug": "automotive-locksmith",
+  "type": "service",
+  "serviceType": "Automotive Locksmith",
+  "title": "Automotive Locksmith in Hot Springs, AR | Arkey Lock",
+  "metaDesc": "Locked out of your car or lost your key? Arkey Locksmith makes & programs car keys and fobs on-site in Hot Springs, AR, 24/7. Call (501) 617-8872.",
+  "h1": "Mobile Automotive Locksmith in Hot Springs, Arkansas",
+  "heroSub": "Car lockouts, broken keys, ignition trouble, and new keys &amp; fobs &mdash; we come to you and charge far less than the dealership. No tow needed.",
+  "trust": [
+    "Licensed &amp; Insured",
+    "24/7 Mobile Service",
+    "15+ Years Experience",
+    "Far Cheaper Than Dealer"
+  ],
+  "offers": [
+    "Car &amp; truck lockout service",
+    "Ignition repair &amp; cylinder extraction",
+    "Broken key extraction from locks &amp; ignitions",
+    "Car key, fob &amp; transponder programming",
+    "Push-to-start (smart key) programming",
+    "VIN key cutting &amp; laser-cut (sidewinder) keys",
+    "Semi-truck &amp; commercial vehicle lockouts",
+    "Spare &amp; replacement keys for most makes"
+  ],
+  "sections": [
+    {
+      "alt": false,
+      "html": "<h2>One Call for Any Car Lock or Key Problem</h2><p>When something goes wrong with your vehicle's keys or locks, you do not want to wait around or pay to have the car towed to a dealer. Arkey Locksmith is a fully mobile automotive locksmith. We drive to your home, your job, a parking lot, or the side of the road anywhere around Hot Springs and handle the fix on the spot. We have done this work for over 15 years, so most jobs are wrapped up in one visit.</p><div class=\"grid c3\"><div class=\"card\"><h3>Lockouts</h3><p>Keys locked inside? We open car and truck doors without damaging the paint, glass, or trim, then get you back behind the wheel.</p></div><div class=\"card\"><h3>Ignition Trouble</h3><p>Key stuck, won't turn, or the ignition is worn out? We repair or replace the cylinder and pull broken keys.</p></div><div class=\"card\"><h3>Keys &amp; Fobs</h3><p>We cut and program car keys, remote fobs, transponder chips, and push-to-start smart keys for most vehicles.</p></div></div>"
+    },
+    {
+      "alt": true,
+      "html": "<h2>Why Skip the Dealership</h2><p>The dealer can make car keys, but you usually pay to tow the car there, wait days for an appointment, and pay top dollar for the key. We skip all of that. Our van carries key blanks and programming gear, so the work happens right where your car is parked. You get the same working key or fob for far less than the dealership charges, and you keep your day on track.</p><ul class=\"ticks\"><li>We come to you &mdash; no tow bill</li><li>Most keys done same day, often within the hour</li><li>Honest, up-front pricing &mdash; call for a quote</li><li>VIN key cutting &amp; laser-cut keys for newer vehicles</li><li>Semi-truck &amp; commercial vehicle lockouts</li><li>Locally owned, not a national call center</li><li>Veteran &amp; senior discounts</li></ul>"
+    },
+    {
+      "alt": false,
+      "html": "<h2>Most Makes &amp; Models Covered</h2><p>We work on cars, trucks, SUVs, and vans from the brands you see most on Arkansas roads. Whether you drive something old with a simple metal key or a newer ride with a chip or push-to-start system, we likely have you covered.</p><div class=\"grid c3\"><div class=\"card\"><h3>Domestic</h3><p>Ford, Chevy, GMC, and Dodge/Ram &mdash; keys, fobs, and ignition work for trucks and cars alike.</p></div><div class=\"card\"><h3>Import</h3><p>Toyota, Honda, and Nissan &mdash; transponder keys and smart keys cut and programmed on-site.</p></div><div class=\"card\"><h3>Korean</h3><p>Hyundai and Kia &mdash; replacement keys and remotes for many model years.</p></div></div><p>Not sure if we handle your vehicle? Call (501) 617-8872 with your year, make, and model and we'll tell you straight.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can you make a car key if I have no key at all?",
+      "a": "<p>Yes. We make keys from scratch even when every key is lost. We use your vehicle's information to cut a new key and program it to your car. Bring your photo ID and proof you own the vehicle, and we'll handle the rest on-site.</p>"
+    },
+    {
+      "q": "Do you program push-to-start (smart) keys?",
+      "a": "<p>We do. Push-to-start vehicles use a smart key fob that has to be paired to the car's computer. We program these fobs right at your vehicle for most makes and models, so there's no trip to the dealer.</p>"
+    },
+    {
+      "q": "How much does a car key cost compared to the dealer?",
+      "a": "<p>Prices vary by vehicle and key type, but our car keys cost far less than the dealership &mdash; and you save the tow bill since we come to you. Call (501) 617-8872 with your year, make, and model for a quick quote.</p>"
+    },
+    {
+      "q": "Do you come to me, or do I bring the car to you?",
+      "a": "<p>We come to you. Arkey Locksmith is fully mobile, so we drive to your location anywhere around Hot Springs &mdash; your driveway, work, a store lot, or the roadside. No need to tow or drive the car anywhere.</p>"
+    },
+    {
+      "q": "What information do you need to make my key?",
+      "a": "<p>Usually the year, make, model, and the VIN (the long number you can see through the windshield on the dash). We also ask for your ID and proof of ownership. With those, we can cut and program the right key for your vehicle.</p>"
+    },
+    {
+      "q": "Are you available at night or on weekends?",
+      "a": "<p>Yes. We're a 24/7 service, so call any hour, any day. Car key and lockout trouble never waits for business hours, and neither do we.</p>"
+    }
+  ],
+  "related": [
+    "car-key-replacement",
+    "emergency-locksmith",
+    "residential-locksmith"
+  ],
+  "heroImage": "/assets/img/hero-carkey.jpg",
+  "keywords": "automotive locksmith Hot Springs, car locksmith, car key maker, key fob programming, transponder key, ignition repair, car lockout, VIN key cutting, laser cut car keys, semi-truck lockout"
+}
