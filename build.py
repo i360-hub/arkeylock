@@ -778,7 +778,11 @@ def main():
         open(os.path.join(DIST, "_headers"), "w").write("/*\n  X-Robots-Tag: noindex, nofollow\n")
     else:
         open(os.path.join(DIST, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {SITE['domain']}/sitemap.xml\n")
-        if os.path.exists(os.path.join(DIST, "_headers")): os.remove(os.path.join(DIST, "_headers"))
+        # Live mode still noindexes the always-on pages.dev alias + per-deploy hash
+        # previews. Host-scoped rules — they can never match arkeylock.com.
+        open(os.path.join(DIST, "_headers"), "w").write(
+            "https://:project.pages.dev/*\n  X-Robots-Tag: noindex\n"
+            "https://:version.:project.pages.dev/*\n  X-Robots-Tag: noindex\n")
     open(os.path.join(DIST, "llms.txt"), "w").write(
         f"# {SITE['brand']}\n> 24/7 mobile locksmith in Hot Springs, Arkansas. Emergency lockouts, automotive key & fob programming, residential, commercial access control, smart locks, RV & marine.\n\n"
         f"Phone: {SITE['phone_display']}\nService area: {SITE['city']}, {SITE['region']} and the surrounding area (mobile service-area business — no walk-in location)\nHours: 24/7\n\n## Pages\n" +
