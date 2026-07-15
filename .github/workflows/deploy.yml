@@ -1,0 +1,44 @@
+# Push-to-deploy: build with the zero-dependency Python SSG and deploy to the
+# existing Cloudflare Pages project, then smoke-check the launch checklist.
+# Requires repo secrets CLOUDFLARE_API_TOKEN + CLOUDFLARE_ACCOUNT_ID.
+
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: python3 build.py
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name arkeylock
+
+      - name: Smoke-check launch checklist
+        run: |
+          sleep 10
+
+          echo "1/4 staging must serve 200 with noindex..."
+          curl -s -D - -o /dev/null "https://arkeylock.pages.dev/" | tee /tmp/h
+          grep -i "x-robots-tag: noindex" /tmp/h
+
+          echo "2/4 production must serve 200..."
+          curl -sf -o /tmp/page.html "https://www.arkeylock.com/?cb=$(date +%s)"
+
+          echo "3/4 production must NOT be noindexed..."
+          ! curl -s -D - -o /dev/null "https://www.arkeylock.com/?cb=$(date +%s)" | grep -qi "x-robots-tag"
+
+          echo "4/4 canonical must point at production domain..."
+          grep -q 'https://www.arkeylock.com' /tmp/page.html
+
+          echo "All checks passed."
