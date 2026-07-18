@@ -23,6 +23,8 @@ SITE = {
     "phone_e164": "+15016178872",
     "phone_tel": "5016178872",
     "phone_display": "(501) 617-8872",
+    "ga4Id": "G-FP3CSP0L45",    # GA4 measurement id (property "ArkeyLock.com")
+    "clarityId": "xohgxd8zk6",  # Microsoft Clarity project
     # Service-area business (SAB) — no public street address. City/region only for locale signals.
     "city": "Hot Springs National Park",
     "region": "AR",
@@ -226,6 +228,24 @@ def linkify_phone(s):
         s = s.replace(f"\x00{i}\x00", original)
     return s
 
+# Sitewide analytics — GA4 + tel_click conversion + Microsoft Clarity. Lazy-
+# loaded on first interaction / browser idle so they never compete with LCP, and
+# hostname-guarded so nothing fires on the *.pages.dev preview or localhost.
+# Built as a plain string (not an f-string) so the JS braces stay literal; the
+# two ids are substituted via .replace().
+ANALYTICS = ("""<script>(function(){
+if(!location.hostname.endsWith('arkeylock.com'))return;
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;
+var loaded=false;function boot(){if(loaded)return;loaded=true;
+var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=__GA__';document.head.appendChild(s);
+gtag('js',new Date());gtag('config','__GA__');
+(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y)})(window,document,'clarity','script','__CLARITY__');}
+['scroll','pointerdown','keydown','touchstart'].forEach(function(e){window.addEventListener(e,boot,{once:true,passive:true})});
+if('requestIdleCallback' in window)requestIdleCallback(boot,{timeout:5000});else window.addEventListener('load',function(){setTimeout(boot,3000)});
+document.addEventListener('click',function(e){var a=e.target&&e.target.closest&&e.target.closest('a[href^="tel:"]');if(!a)return;boot();window.gtag&&window.gtag('event','tel_click',{link_text:(a.textContent||'').trim().slice(0,60),page_path:location.pathname})});
+})();</script>""".replace("__GA__", SITE["ga4Id"]).replace("__CLARITY__", SITE["clarityId"]))
+
+
 def head(page):
     slug = page["slug"]; url = SITE["domain"] + ("/" if not slug else f"/{slug}")
     title = page["title"]; desc = page["metaDesc"]
@@ -246,6 +266,7 @@ def head(page):
 <meta property="og:image" content="{SITE['domain']}{ogimg}">
 <link rel="stylesheet" href="/assets/styles.css">
 <script type="application/ld+json">{json.dumps(build_schema(page), ensure_ascii=False)}</script>
+{ANALYTICS}
 </head><body>"""
 
 def header_html():
