@@ -86,7 +86,10 @@ REDIRECTS = [
     ("/reliable-hot-springs-locksmith-services-for-every-need", "/"),
     ("/protecting-your-property-is-our-priority", "/"),
     ("/not-all-locks-are-created-equal", "/"),
-    ("/not%20all-locks-are-created-equal", "/"),  # same post; a space-for-hyphen variant got indexed
+    # Same post; a space-for-hyphen variant got indexed (/not%20all-...). Cloudflare
+    # decodes %20 to a space before matching, and a literal space can't be written in
+    # the space-delimited _redirects format — so a wildcard covers the middle char.
+    ("/not*all-locks-are-created-equal", "/"),
 ]
 
 CSS = """
