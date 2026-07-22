@@ -1,7 +1,7 @@
 ---
 title: "Key Fob Not Working? Run Through This Before You Replace It"
 description: "Fob buttons dead or car saying key not detected? A Hot Springs locksmith walks through the fixes, from battery to programming, cheapest first."
-pubDate: 2026-09-08
+pubDate: 2026-08-25
 heroImage: "/assets/img/hero-carkey.jpg"
 heroAlt: "A transponder car key and fob at a vehicle's driver door"
 ---

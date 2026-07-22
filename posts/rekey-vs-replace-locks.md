@@ -1,7 +1,7 @@
 ---
 title: "Just Moved? Rekey vs. Replacing Your Locks, Explained"
 description: "New house in Hot Springs? A 15+ year local locksmith explains rekeying vs. replacing locks, which one you actually need, and the one-key trick."
-pubDate: 2026-09-22
+pubDate: 2026-09-08
 heroImage: "/assets/img/hero-keys.jpg"
 heroAlt: "A cluster of house keys on a dark surface, ready to be rekeyed"
 ---

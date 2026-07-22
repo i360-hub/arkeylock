@@ -2,7 +2,7 @@
 title: "An Employee Left With Keys: What Hot Springs Businesses Should Do"
 seoTitle: "Employee Left With Keys? When to Rekey Your Business"
 description: "Staff turnover and business keys don't mix. A 15+ year Hot Springs commercial locksmith explains when to rekey, master keys, and how to stop the cycle."
-pubDate: 2026-11-10
+pubDate: 2026-10-27
 heroImage: "/assets/img/hero-commercial.webp"
 heroAlt: "A modern Hot Springs office interior with desks and workstations"
 ---

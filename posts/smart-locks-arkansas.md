@@ -2,7 +2,7 @@
 title: "Smart Locks in Arkansas: What Actually Holds Up (A Locksmith's Honest Take)"
 seoTitle: "Smart Locks in Arkansas: What Actually Holds Up"
 description: "Thinking about a smart lock for your Hot Springs home or lake cabin? A 15+ year locksmith explains what survives our humidity, what fails, and what to pick."
-pubDate: 2026-10-27
+pubDate: 2026-10-13
 heroImage: "/assets/img/hero-smartlock.webp"
 heroAlt: "A person operating a keypad smart lock on a modern front door"
 ---

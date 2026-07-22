@@ -2,7 +2,7 @@
 title: "Car Key Replacement: Dealership or Locksmith? What Actually Sets the Price"
 seoTitle: "Car Key Replacement: Dealership vs. Locksmith Cost"
 description: "Lost your car key in Hot Springs? A 15+ year locksmith explains dealership vs. locksmith replacement, what drives the cost, and why the chip matters."
-pubDate: 2026-08-25
+pubDate: 2026-08-11
 heroImage: "/assets/img/hero-carkey.jpg"
 heroAlt: "A hand using a transponder car key in a car door lock"
 ---

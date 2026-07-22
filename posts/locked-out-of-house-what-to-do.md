@@ -2,7 +2,7 @@
 title: "Locked Out of Your House? What to Try First (and What to Skip)"
 seoTitle: "Locked Out of Your House? What to Try First"
 description: "Standing on your porch with no key? A Hot Springs locksmith with 15+ years of lockout calls shares what to check first and the mistakes that cost the most."
-pubDate: 2026-10-13
+pubDate: 2026-09-29
 heroImage: "/assets/img/hero-residential.jpg"
 heroAlt: "A set of keys hanging in a residential front-door lock"
 ---

@@ -2,7 +2,7 @@
 title: "How to Spot a Locksmith Scam (From a Real Hot Springs Locksmith)"
 seoTitle: "How to Spot a Locksmith Scam in Hot Springs"
 description: "That $19 locksmith ad is bait. A Hot Springs locksmith with 15+ years local explains the scam playbook, the red flags, and how to check who you're calling."
-pubDate: 2026-08-11
+pubDate: 2026-07-22
 heroImage: "/assets/img/hero-keys.jpg"
 heroAlt: "A cluster of house and car keys — choosing a trustworthy Hot Springs locksmith"
 ---
